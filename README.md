@@ -10,7 +10,7 @@ Invoke the following commands in each of the sub main subfolders.
 ```
 npm i
 ```
-You can then use the follwing commmand to run the site up.
+You can then use the following commmand to run the site up.
 
 ```
 npm run start
