@@ -10,7 +10,7 @@ Invoke the following commands in each of the sub main subfolders.
 ```
 npm i
 ```
-You can then use the follwing commmand to run the site on port 3000 and press the install button from there.
+You can then use the follwing commmand to run the site up.
 
 ```
 npm run start
