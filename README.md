@@ -28,4 +28,12 @@ This application is deployed on GitHub pages.
 
 ## BUGS:
 
+
+
+
+
+
+
+
+
 This is only here to submit to adhere to a deadline, I have many ambitions for this portfolio which I can't wait to start
